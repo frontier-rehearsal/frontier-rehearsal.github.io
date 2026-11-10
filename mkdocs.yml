@@ -1,0 +1,11 @@
+site_name: Frontier AI Hiring Signals
+site_description: Reproducible role-title signals from 6,864 frontier-AI job postings.
+site_url: https://frontier-rehearsal-hiring-signals.readthedocs.io/
+repo_url: https://github.com/frontier-rehearsal/frontier-rehearsal.github.io
+repo_name: frontier-rehearsal/frontier-rehearsal.github.io
+
+theme:
+  name: readthedocs
+
+nav:
+  - Hiring signals: index.md
